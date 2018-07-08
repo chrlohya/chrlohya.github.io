@@ -332,13 +332,19 @@ footer{
   .box-area {
     width: 50%;
   }
-
 }
 
 @media all and (max-width: 750px) {
   .top-wrapper h1 {
     font-size: 32px;
   }
+  .box{
+    padding:70px;
+  }
+  .top-wrapper{
+    padding: 150px 0 150px 0;
+  }
+
 }
 
 @media all and (max-width: 670px) {
