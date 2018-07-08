@@ -338,11 +338,12 @@ footer{
   .top-wrapper h1 {
     font-size: 32px;
   }
-  .box{
-    padding:70px;
-  }
+
   .top-wrapper{
     padding: 150px 0 150px 0;
+  }
+  .box-area{
+    text-align: center;
   }
 
 }
@@ -369,23 +370,7 @@ footer{
     text-align: left;
   }
 
-  .top-wrapper h1 {
-    font-size: 24px;
-  }
-
-  .top-wrapper p {
-    font-size: 14px;
-  }
-
-  .lesson {
-    width: 100%;
-  }
-
-  .lesson-wrapper {
-    height: 1700px;
-  }
-
-  .message-wrapper .btn {
+  .box-area {
     width: 100%;
   }
 }
